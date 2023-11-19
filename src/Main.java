@@ -58,6 +58,5 @@ public class Main {
         staff=staff+94;
         var quantityHours=640/staff;
         System.out.println("Если в компании работает "+staff+" человек, то всего "+quantityHours+" часов работы может быть поделено между сотрудниками");
-
     }
 }
